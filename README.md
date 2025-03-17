@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ## 👯 What I'm Looking to Collaborate On
 - Open-source projects that aim to solve real-world problems
 - Innovative web and mobile applications
-- Machine learning and data science projects
 
 ## 💬 Ask Me About
 - JavaScript, Python, and C++
